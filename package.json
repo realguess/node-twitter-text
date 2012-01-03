@@ -1,0 +1,19 @@
+{
+  "name": "node-twitter-text"
+  , "description": "Wrapper for official twitter text linkification"
+  , "version": "1.4.14"
+  , "main": "./twitter-text.js"
+  , "homepage": "https://github.com/realguess/node-twitter-text"
+  , "author": "Twitter Inc."
+  , "repository": {
+    "type": "git"
+    , "url": "https://github.com/realguess/node-twitter-text.git"
+  }
+  , "maintainers": [{
+    "name": "Chao Huang"
+    , "email": "chao@realguess.net"
+  }]
+  , "engines": {
+    "node": ">= 0.6.5"
+  }
+}
