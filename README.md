@@ -19,3 +19,9 @@ Extract screen names:
     console.log(usernames);
     // ["twitter", "jack"]
 
+
+## License
+
+See twitter-text-js [license][].
+
+[license]: https://github.com/twitter/twitter-text-js/blob/master/LICENSE
